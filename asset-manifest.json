@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ahmadbamallee/ahmadeeno.git/static/css/main.c9ef5243.css",
-    "main.js": "/ahmadbamallee/ahmadeeno.git/static/js/main.0bc1de6c.js",
-    "static/js/796.33a7488c.chunk.js": "/ahmadbamallee/ahmadeeno.git/static/js/796.33a7488c.chunk.js",
-    "static/js/165.9e1be420.chunk.js": "/ahmadbamallee/ahmadeeno.git/static/js/165.9e1be420.chunk.js",
-    "static/js/488.62c712a0.chunk.js": "/ahmadbamallee/ahmadeeno.git/static/js/488.62c712a0.chunk.js",
-    "index.html": "/ahmadbamallee/ahmadeeno.git/index.html",
-    "main.c9ef5243.css.map": "/ahmadbamallee/ahmadeeno.git/static/css/main.c9ef5243.css.map",
-    "main.0bc1de6c.js.map": "/ahmadbamallee/ahmadeeno.git/static/js/main.0bc1de6c.js.map",
-    "796.33a7488c.chunk.js.map": "/ahmadbamallee/ahmadeeno.git/static/js/796.33a7488c.chunk.js.map",
-    "165.9e1be420.chunk.js.map": "/ahmadbamallee/ahmadeeno.git/static/js/165.9e1be420.chunk.js.map",
-    "488.62c712a0.chunk.js.map": "/ahmadbamallee/ahmadeeno.git/static/js/488.62c712a0.chunk.js.map"
+    "main.css": "/ahmadeeno/static/css/main.c9ef5243.css",
+    "main.js": "/ahmadeeno/static/js/main.984d3c4a.js",
+    "static/js/796.33a7488c.chunk.js": "/ahmadeeno/static/js/796.33a7488c.chunk.js",
+    "static/js/165.9e1be420.chunk.js": "/ahmadeeno/static/js/165.9e1be420.chunk.js",
+    "static/js/488.62c712a0.chunk.js": "/ahmadeeno/static/js/488.62c712a0.chunk.js",
+    "index.html": "/ahmadeeno/index.html",
+    "main.c9ef5243.css.map": "/ahmadeeno/static/css/main.c9ef5243.css.map",
+    "main.984d3c4a.js.map": "/ahmadeeno/static/js/main.984d3c4a.js.map",
+    "796.33a7488c.chunk.js.map": "/ahmadeeno/static/js/796.33a7488c.chunk.js.map",
+    "165.9e1be420.chunk.js.map": "/ahmadeeno/static/js/165.9e1be420.chunk.js.map",
+    "488.62c712a0.chunk.js.map": "/ahmadeeno/static/js/488.62c712a0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c9ef5243.css",
-    "static/js/main.0bc1de6c.js"
+    "static/js/main.984d3c4a.js"
   ]
 }

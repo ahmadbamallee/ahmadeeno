@@ -12,7 +12,7 @@ function Navbar() {
   return (
     <nav className="navbar">
       <div className="navbar-brand">
-        <img src="/assets/logo.png" alt="Logo" className="navbar-logo"/>
+        <img src={process.env.PUBLIC_URL + '/assets/logo.png'} alt="Logo" className="navbar-logo"/>
       </div>
       <div className={`navbar-links ${isOpen ? 'open' : ''}`}>
         <Link to="/" onClick={toggleMenu}>Home</Link>
